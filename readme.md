@@ -15,4 +15,8 @@ Then from NIS it will be possible to run a macro `Layout configuration.mac` that
 
 Some GA3 functions are also included (as well as the method to install them in NIS) to easily save table in `.csv` for batch run (or individual run)
 
+---
+
+`HowToDrSeishu.pdf` is the instruction file to download the last version of Dr.Seishu and to configure for crash and/or bug reporting.
+
 ENJOY !! :)
