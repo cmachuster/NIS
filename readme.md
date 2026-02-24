@@ -20,4 +20,8 @@ Some GA3 functions are also included (as well as the method to install them in N
 
 `HowToDrSeishu.pdf` is the instruction file to download the last version of Dr.Seishu and to configure it for crash and/or bug reporting.
 
+> [!NOTE]
+> download link to the latest Dr. Seishu here :
+> https://www.niwiki.nl/Wiki/index.cgi?topic=3293
+
 ENJOY !! :)
