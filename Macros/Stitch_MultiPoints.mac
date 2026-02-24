@@ -1,3 +1,7 @@
+// This Macro generates a stitched Large Image from a Multipoint image.
+// Two commands are proposed depending of the stitching algorithm desired and/or if the user has the G3 plugin installed
+
+
 // Without GA3
 //ND_StitchMultipoint(
 //  int  StitchNDMethod,
@@ -19,7 +23,7 @@
 
 ND_StitchMultipoint(0,0,2,0,1);
                            
-// stitching from Multi-point using GA3 method
+// stitching from Multi-point using GA3 method -> GA3 plugin required
 //ND_StitchMultipointGa3(
 //  int  iStitchingMethod,
 //	0 -> Blending
@@ -41,4 +45,3 @@ ND_StitchMultipoint(0,0,2,0,1);
 //);
 
 // ND_StitchMultipointGa3(0,1,0,0,15);
-
