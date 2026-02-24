@@ -5,7 +5,8 @@ This repository propose some tips and tricks to help install and configure NIS.
 You can find some macro files `*.mac` in the **Macros** folder.
 You can copy the files as such or get inspiration from them.
 
-> [!WARNING] in order to run in NIS the file extension has to be `.mac`
+> [!IMPORTANT]
+> in order to run in NIS the file extension has to be `.mac`
 
 ---
 
