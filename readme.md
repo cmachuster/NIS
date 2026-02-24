@@ -18,6 +18,6 @@ Some GA3 functions are also included (as well as the method to install them in N
 
 ---
 
-`HowToDrSeishu.pdf` is the instruction file to download the last version of Dr.Seishu and to configure for crash and/or bug reporting.
+`HowToDrSeishu.pdf` is the instruction file to download the last version of Dr.Seishu and to configure it for crash and/or bug reporting.
 
 ENJOY !! :)
