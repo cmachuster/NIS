@@ -1,3 +1,9 @@
+// reload Layouts and OCs
 RestoreLayoutsEx(« C:\Nikon Service\xxx », 1);
-
 RestoreOptConfEx(« C:\Nikon Service\xxx », 1);
+
+// Emptying ND Acquisition
+ND_ResetLambdaExp();
+ND_ResetMultipointExp();
+ND_ResetTimeExp();
+ND_ResetZSeriesExp();
