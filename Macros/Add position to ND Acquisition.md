@@ -1,5 +1,5 @@
 
->[!INFO]
+> [!NOTE]
 >This macro will get the current X, Y, Z coordinates of the stage and create a position in the XY tab of "ND Acquisition".
 >If the PFS is locked, the PFS offset will be added to the list.
 
@@ -26,5 +26,5 @@ This macro is especially suited to one of the Ti2E function button.
 The user can then register position to NIS while looking for the sample through the eyepiece.
 The most commonly used Fn button is the "FnL" button and the bottom left part of the microscope.
 
->[!IMPORTANT] .mac file can be downloaded here 
+> [!IMPORTANT] .mac file can be downloaded here 
 
