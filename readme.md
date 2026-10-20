@@ -6,7 +6,7 @@ This repository propose some tips and tricks to help install and configure NIS.
 
 In this section we will present basic macros and commands to be used automatically or when you'll need them.
 
-1. [Adding positionw to "ND acquisition"]()
+1. [Adding positionw to "ND acquisition"](https://github.com/cmachuster/NIS/blob/main/Macros/Add%20position%20to%20ND%20Acquisition.md)
 
 You can copy the files as such or get inspiration from them.
 
