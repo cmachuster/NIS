@@ -6,7 +6,7 @@ This repository propose some tips and tricks to help install and configure NIS.
 
 In this section we will present basic macros and commands to be used automatically or when you'll need them.
 
-1. add position to ND acquisition
+1. [Adding positionw to "ND acquisition"]()
 
 You can copy the files as such or get inspiration from them.
 
