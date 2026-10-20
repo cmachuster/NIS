@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "d33ed17849285d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f161cfc3aa24f6f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e263a92d71b3f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macros/Add position to ND Acquisition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add position to ND Acquisition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a23fc5c1cafc916f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9991eacacb58f7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274be970228dc260",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ca2a721addd6faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b38c4ac714343d20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "512a7a6fe9391e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c4983c97595f9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff92b092cdbe7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Macros/Add position to ND Acquisition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a3063de69ea4337d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Macros/Add position to ND Acquisition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d20a4e84d7480aa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f191c814f788e4be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "360beb4cb76b9215",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Macros/Add position to ND Acquisition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e8e263a92d71b3f1",
+  "lastOpenFiles": [
+    "readme.md",
+    "Macros/Add position to ND Acquisition.md",
+    "attachments/Stitch_MultiPoints.mac",
+    "attachments/Set_MouseZ_step.mac",
+    "attachments/Restore_Macro.mac",
+    "attachments/Panel.xml",
+    "attachments/move2single.mac",
+    "attachments/move2dual.mac",
+    "attachments/MaxIP.mac",
+    "attachments/Auto_emission_Iris.mac",
+    "attachments/Add_position_2_ND.mac",
+    "HowToDrSeishu.pdf"
+  ]
+}
