@@ -1,5 +1,5 @@
 
-> [!INFO]
+> [!INOTE]
 > This Macro is design to reload silently (without questions from NIS) backup files of the stored Layouts and Optical Configurations
 
 ```c
@@ -15,3 +15,5 @@ ND_ResetZSeriesExp;
 ND_ResetLambdaExp;
 ```
 
+> [!IMPORTANT] 
+> .mac file can be downloaded [here](https://github.com/cmachuster/NIS/blob/main/attachments/Restore_Macro.mac) 
