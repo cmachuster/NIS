@@ -2,11 +2,16 @@ This repository propose some tips and tricks to help install and configure NIS.
 
 ---
 
-## Macros
+## Macros / Commands
 
 In this section we will present basic macros and commands to be used automatically or when you'll need them.
 
 1. [Adding positionw to "ND acquisition"](https://github.com/cmachuster/NIS/blob/main/Macros/Add%20position%20to%20ND%20Acquisition.md)
+2. Restore Layouts and/or Optical configurations
+3. Automatically adjust Crest X-Light V3 Emission Iris with objectives
+4. Basical microscope motion commands (Escape, )
+5. Basical ND manipulation commands (MaxIP, Stitching...)
+6. 
 
 You can copy the files as such or get inspiration from them.
 
