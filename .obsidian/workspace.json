@@ -190,9 +190,10 @@
   },
   "active": "e8e263a92d71b3f1",
   "lastOpenFiles": [
+    "Macros/Basical_commands.md",
+    "readme.md",
     "Macros/Add position to ND Acquisition.md",
     "Macros/Restore Macro.md",
-    "readme.md",
     "attachments/Stitch_MultiPoints.mac",
     "attachments/Set_MouseZ_step.mac",
     "attachments/Restore_Macro.mac",

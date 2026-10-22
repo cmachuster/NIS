@@ -2,6 +2,15 @@ This repository propose some tips and tricks to help install and configure NIS.
 
 ---
 
+## NIS tips / help
+
+1. Motorized stage calibration
+2. Optical Configuirations - notions
+3. Backuping Optical Configurations and Layouts
+4. Creating a "Macro button"
+
+---
+
 ## Macros / Commands
 
 In this section we will present basic macros and commands to be used automatically or when you'll need them.
@@ -18,9 +27,20 @@ You can copy the files as such or get inspiration from them.
 > [!IMPORTANT]
 > in order to run in NIS the file extension has to be `.mac`
 
----
+- - -
 
-The **NIS_Install** Folder includes files that have to be installed in `C:/Nikon Service`
+## JOBS 
+
+🚧 under construction 🚧
+
+- - - 
+
+## Install folder
+
+The **NIS_Install** is a convenient tool for fesh NIS installs.
+The folder includes files that have to be installed in `C:/Nikon Service`
+
+> [! WARNING] mind the spelling of Nikon Service
 
 Then from NIS it will be possible to run a macro `Layout configuration.mac` that will install a default layout and set NIS windows a nice way :)
 
@@ -28,6 +48,7 @@ Some GA3 functions are also included (as well as the method to install them in N
 
 ---
 
+## Dr. Seishu
 ![Dr.Seishu](https://github.com/cmachuster/NIS/blob/main/attachments/DrSeishu.gif)
 
 `HowToDrSeishu.pdf` is the instruction file to download the last version of Dr.Seishu and to configure it for crash and/or bug reporting.
